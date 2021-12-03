@@ -1,0 +1,124 @@
+{
+  "products": [
+    {
+      "title": "Man Track Suit",
+      "price": "99.99",
+      "image": "./images/pic1.jpg",
+      "category": "featured"
+    },
+    {
+      "title": "Man Track Suit",
+      "price": "99.99",
+      "image": "./images/pic2.jpg",
+      "category": "trend"
+    },
+    {
+      "title": "Woman Track Suit",
+      "price": "99.99",
+      "image": "./images/pic3.jpg",
+      "category": "featured"
+    },
+    {
+      "title": "Woman Track Suit",
+      "price": "99.99",
+      "image": "./images/pic4.jpg",
+      "category": "trend"
+    },
+    {
+      "title": "Girls Sports Shoes",
+      "price": "99.99",
+      "image": "./images/pic5.jpg",
+      "category": "featured"
+    },
+    {
+      "title": "Sports Shoes",
+      "price": "99.99",
+      "image": "./images/pic6.jpg",
+      "category": "recent"
+    },
+    {
+      "title": "Girls Sports Shoes",
+      "price": "99.99",
+      "image": "./images/pic8.jpg",
+      "category": "trend"
+    },
+    {
+      "title": "Man Sports Shoe",
+      "price": "99.99",
+      "image": "./images/pic7.jpg",
+      "category": "featured"
+    },
+    {
+      "title": "Girls Sports Shoes",
+      "price": "99.99",
+      "image": "./images/pic8.jpg",
+      "category": "recent"
+    },
+    {
+      "title": "Man Track Suit",
+      "price": "99.99",
+      "image": "./images/pic1.jpg",
+      "category": "trend"
+    },
+    {
+      "title": "Man Sports Shoe",
+      "price": "99.99",
+      "image": "./images/pic9.jpg",
+      "category": "special"
+    },
+    {
+      "title": "Sleeveless for man",
+      "price": "99.99",
+      "image": "./images/pic10.jpg",
+      "category": "special"
+    },
+    {
+      "title": "Sleeveless for man",
+      "price": "99.99",
+      "image": "./images/pic11.jpg",
+      "category": "special"
+    },
+    {
+      "title": "T-Shirt For Man",
+      "price": "99.99",
+      "image": "./images/pic12.jpg",
+      "category": "recent"
+    },
+    {
+      "title": "Man Sports Shoe",
+      "price": "99.99",
+      "image": "./images/pic7.jpg",
+      "category": "special"
+    },
+    {
+      "title": "Moddest Wear",
+      "price": "99.99",
+      "image": "./images/pic13.jpg",
+      "category": "latest"
+    },
+    {
+      "title": "Relax Wear",
+      "price": "99.99",
+      "image": "./images/pic14.jpg",
+      "category": "recent"
+    },
+    {
+      "title": "Woman Sports Shoe",
+      "price": "99.99",
+      "image": "./images/pic8.jpg",
+      "category": "latest"
+    },
+    {
+      "title": "Badminton Dress",
+      "price": "99.99",
+      "image": "./images/pic15.jpg",
+      "category": "latest"
+    },
+    {
+      "title": "Man Track Suit",
+      "price": "99.99",
+      "image": "./images/pic1.jpg",
+      "category": "latest"
+    }
+  ]
+}
